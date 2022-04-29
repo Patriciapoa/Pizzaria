@@ -1,2 +1,2 @@
 # Pizzaria
-Modelo de design para site de pizzaria 
+Modelo de design para site de pizzaria.
